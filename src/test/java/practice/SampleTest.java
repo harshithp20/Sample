@@ -9,6 +9,5 @@ public class SampleTest {
 	{
 		System.out.println("Method running");
 	}
-	//HIII
-
+	
 }
