@@ -2,19 +2,19 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-05-01T21:21:38 IST" name="Surefire suite" finished-at="2023-05-01T21:21:38 IST" duration-ms="67">
+  <suite started-at="2023-05-02T12:06:48 IST" name="Suite" finished-at="2023-05-02T12:06:48 IST" duration-ms="73">
     <groups>
       <group name="regressionTest">
-        <method signature="SampleTest.test()[pri:0, instance:practice.SampleTest@78aab498]" name="test" class="practice.SampleTest"/>
+        <method signature="SampleTest.test()[pri:0, instance:practice.SampleTest@123ef382]" name="test" class="practice.SampleTest"/>
       </group> <!-- regressionTest -->
     </groups>
-    <test started-at="2023-05-01T21:21:38 IST" name="Surefire test" finished-at="2023-05-01T21:21:38 IST" duration-ms="67">
+    <test started-at="2023-05-02T12:06:48 IST" name="Test" finished-at="2023-05-02T12:06:48 IST" duration-ms="73">
       <class name="practice.SampleTest">
-        <test-method signature="test()[pri:0, instance:practice.SampleTest@78aab498]" started-at="2023-05-01T21:21:38 IST" name="test" finished-at="2023-05-01T21:21:38 IST" duration-ms="8" status="PASS">
+        <test-method signature="test()[pri:0, instance:practice.SampleTest@123ef382]" started-at="2023-05-02T12:06:48 IST" name="test" finished-at="2023-05-02T12:06:48 IST" duration-ms="8" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
       </class> <!-- practice.SampleTest -->
-    </test> <!-- Surefire test -->
-  </suite> <!-- Surefire suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

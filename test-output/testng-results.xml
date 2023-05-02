@@ -2,19 +2,19 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-05-01T09:26:39 IST" name="Default suite" finished-at="2023-05-01T09:26:39 IST" duration-ms="83">
+  <suite started-at="2023-05-02T12:09:12 IST" name="Suite" finished-at="2023-05-02T12:09:12 IST" duration-ms="72">
     <groups>
       <group name="regressionTest">
         <method signature="SampleTest.test()[pri:0, instance:practice.SampleTest@20deea7f]" name="test" class="practice.SampleTest"/>
       </group> <!-- regressionTest -->
     </groups>
-    <test started-at="2023-05-01T09:26:39 IST" name="Default test" finished-at="2023-05-01T09:26:39 IST" duration-ms="83">
+    <test started-at="2023-05-02T12:09:12 IST" name="Test" finished-at="2023-05-02T12:09:12 IST" duration-ms="72">
       <class name="practice.SampleTest">
-        <test-method signature="test()[pri:0, instance:practice.SampleTest@20deea7f]" started-at="2023-05-01T09:26:39 IST" name="test" finished-at="2023-05-01T09:26:39 IST" duration-ms="16" status="PASS">
+        <test-method signature="test()[pri:0, instance:practice.SampleTest@20deea7f]" started-at="2023-05-02T12:09:12 IST" name="test" finished-at="2023-05-02T12:09:12 IST" duration-ms="17" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
       </class> <!-- practice.SampleTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
